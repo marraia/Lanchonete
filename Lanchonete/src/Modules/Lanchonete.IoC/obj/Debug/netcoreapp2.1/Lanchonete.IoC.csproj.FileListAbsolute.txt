@@ -1,0 +1,9 @@
+C:\_me\_projects\_lanchonete\Lanchonete\src\Modules\Lanchonete.IoC\bin\Debug\netcoreapp2.1\Lanchonete.IoC.deps.json
+C:\_me\_projects\_lanchonete\Lanchonete\src\Modules\Lanchonete.IoC\bin\Debug\netcoreapp2.1\Lanchonete.IoC.dll
+C:\_me\_projects\_lanchonete\Lanchonete\src\Modules\Lanchonete.IoC\bin\Debug\netcoreapp2.1\Lanchonete.IoC.pdb
+C:\_me\_projects\_lanchonete\Lanchonete\src\Modules\Lanchonete.IoC\obj\Debug\netcoreapp2.1\Lanchonete.IoC.csprojAssemblyReference.cache
+C:\_me\_projects\_lanchonete\Lanchonete\src\Modules\Lanchonete.IoC\obj\Debug\netcoreapp2.1\Lanchonete.IoC.csproj.CoreCompileInputs.cache
+C:\_me\_projects\_lanchonete\Lanchonete\src\Modules\Lanchonete.IoC\obj\Debug\netcoreapp2.1\Lanchonete.IoC.AssemblyInfoInputs.cache
+C:\_me\_projects\_lanchonete\Lanchonete\src\Modules\Lanchonete.IoC\obj\Debug\netcoreapp2.1\Lanchonete.IoC.AssemblyInfo.cs
+C:\_me\_projects\_lanchonete\Lanchonete\src\Modules\Lanchonete.IoC\obj\Debug\netcoreapp2.1\Lanchonete.IoC.dll
+C:\_me\_projects\_lanchonete\Lanchonete\src\Modules\Lanchonete.IoC\obj\Debug\netcoreapp2.1\Lanchonete.IoC.pdb

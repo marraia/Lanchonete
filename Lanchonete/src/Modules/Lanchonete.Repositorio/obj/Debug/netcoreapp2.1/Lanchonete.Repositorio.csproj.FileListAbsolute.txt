@@ -1,0 +1,12 @@
+C:\_me\_projects\_lanchonete\Lanchonete\src\Modules\Lanchonete.Repositorio\bin\Debug\netcoreapp2.1\Lanchonete.Repositorio.deps.json
+C:\_me\_projects\_lanchonete\Lanchonete\src\Modules\Lanchonete.Repositorio\bin\Debug\netcoreapp2.1\Lanchonete.Repositorio.dll
+C:\_me\_projects\_lanchonete\Lanchonete\src\Modules\Lanchonete.Repositorio\bin\Debug\netcoreapp2.1\Lanchonete.Repositorio.pdb
+C:\_me\_projects\_lanchonete\Lanchonete\src\Modules\Lanchonete.Repositorio\obj\Debug\netcoreapp2.1\Lanchonete.Repositorio.csprojAssemblyReference.cache
+C:\_me\_projects\_lanchonete\Lanchonete\src\Modules\Lanchonete.Repositorio\obj\Debug\netcoreapp2.1\Lanchonete.Repositorio.csproj.CoreCompileInputs.cache
+C:\_me\_projects\_lanchonete\Lanchonete\src\Modules\Lanchonete.Repositorio\obj\Debug\netcoreapp2.1\Lanchonete.Repositorio.AssemblyInfoInputs.cache
+C:\_me\_projects\_lanchonete\Lanchonete\src\Modules\Lanchonete.Repositorio\obj\Debug\netcoreapp2.1\Lanchonete.Repositorio.AssemblyInfo.cs
+C:\_me\_projects\_lanchonete\Lanchonete\src\Modules\Lanchonete.Repositorio\obj\Debug\netcoreapp2.1\Lanchonete.Repositorio.dll
+C:\_me\_projects\_lanchonete\Lanchonete\src\Modules\Lanchonete.Repositorio\obj\Debug\netcoreapp2.1\Lanchonete.Repositorio.pdb
+C:\_me\_projects\_lanchonete\Lanchonete\src\Modules\Lanchonete.Repositorio\bin\Debug\netcoreapp2.1\Lanchonete.Dominio.dll
+C:\_me\_projects\_lanchonete\Lanchonete\src\Modules\Lanchonete.Repositorio\bin\Debug\netcoreapp2.1\Lanchonete.Dominio.pdb
+C:\_me\_projects\_lanchonete\Lanchonete\src\Modules\Lanchonete.Repositorio\obj\Debug\netcoreapp2.1\Lanchonete.Repositorio.csproj.CopyComplete

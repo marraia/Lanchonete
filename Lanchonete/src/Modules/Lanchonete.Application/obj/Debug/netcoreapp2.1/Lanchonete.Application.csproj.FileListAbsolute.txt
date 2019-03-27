@@ -1,0 +1,8 @@
+C:\_me\_projects\_lanchonete\Lanchonete\src\Modules\Lanchonete.Application\bin\Debug\netcoreapp2.1\Lanchonete.Application.deps.json
+C:\_me\_projects\_lanchonete\Lanchonete\src\Modules\Lanchonete.Application\bin\Debug\netcoreapp2.1\Lanchonete.Application.dll
+C:\_me\_projects\_lanchonete\Lanchonete\src\Modules\Lanchonete.Application\bin\Debug\netcoreapp2.1\Lanchonete.Application.pdb
+C:\_me\_projects\_lanchonete\Lanchonete\src\Modules\Lanchonete.Application\obj\Debug\netcoreapp2.1\Lanchonete.Application.csproj.CoreCompileInputs.cache
+C:\_me\_projects\_lanchonete\Lanchonete\src\Modules\Lanchonete.Application\obj\Debug\netcoreapp2.1\Lanchonete.Application.AssemblyInfoInputs.cache
+C:\_me\_projects\_lanchonete\Lanchonete\src\Modules\Lanchonete.Application\obj\Debug\netcoreapp2.1\Lanchonete.Application.AssemblyInfo.cs
+C:\_me\_projects\_lanchonete\Lanchonete\src\Modules\Lanchonete.Application\obj\Debug\netcoreapp2.1\Lanchonete.Application.dll
+C:\_me\_projects\_lanchonete\Lanchonete\src\Modules\Lanchonete.Application\obj\Debug\netcoreapp2.1\Lanchonete.Application.pdb

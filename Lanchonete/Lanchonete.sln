@@ -1,0 +1,88 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1-Services", "1-Services", "{B5968F55-DBDB-441C-B8EB-3C60E60B8148}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2-Application", "2-Application", "{456FCF2A-181B-4BF6-BCB6-CAD576DF6B9F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lanchonete.API", "Lanchonete.API", "{88C5EE67-EC32-40B9-BF44-59F4C4883FFD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lanchonete.API", "src\Services\Lanchonete.API\Lanchonete.API.csproj", "{A4D9AABB-ADC7-46C8-A9DD-4DB56D1B9D65}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3-Dominio", "3-Dominio", "{AAE57B5E-2AB3-461D-827B-862D773C8846}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4-Infraestrutura", "4-Infraestrutura", "{086E2123-29E3-4EA7-8B11-F46085B6EEBD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5-Testes", "5-Testes", "{830C653A-30FE-458E-BDC5-B221B62346C7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.1-Repositorio", "4.1-Repositorio", "{5FBFB417-94FC-4D92-B458-3AB1CBA96CA3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.2-IoC", "4.2-IoC", "{100D61A0-CB67-42AD-8D77-4C2E0B88BB0C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lanchonete.Repositorio", "src\Modules\Lanchonete.Repositorio\Lanchonete.Repositorio.csproj", "{0BFF251D-53CD-4FD0-A90D-A811B6651229}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lanchonete.IoC", "src\Modules\Lanchonete.IoC\Lanchonete.IoC.csproj", "{D9A4F14B-472C-4ECE-8067-173208A4A9F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lanchonete.Testes", "src\Modules\Lanchonete.Testes\Lanchonete.Testes.csproj", "{1DDAB7D7-EC0C-4B2E-88C5-2A0706BC032C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lanchonete.Dominio", "src\Modules\Lanchonete.Dominio\Lanchonete.Dominio.csproj", "{858C583F-3282-48C1-AE50-F8D66E0525BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lanchonete.Application", "src\Modules\Lanchonete.Application\Lanchonete.Application.csproj", "{0FC6CD26-A2EC-4011-A25E-63AF844AEB8C}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{FDA7691D-A1E1-4F4A-82EF-39F9A6D8E892}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4D9AABB-ADC7-46C8-A9DD-4DB56D1B9D65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4D9AABB-ADC7-46C8-A9DD-4DB56D1B9D65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4D9AABB-ADC7-46C8-A9DD-4DB56D1B9D65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4D9AABB-ADC7-46C8-A9DD-4DB56D1B9D65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BFF251D-53CD-4FD0-A90D-A811B6651229}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BFF251D-53CD-4FD0-A90D-A811B6651229}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BFF251D-53CD-4FD0-A90D-A811B6651229}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BFF251D-53CD-4FD0-A90D-A811B6651229}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9A4F14B-472C-4ECE-8067-173208A4A9F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9A4F14B-472C-4ECE-8067-173208A4A9F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9A4F14B-472C-4ECE-8067-173208A4A9F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9A4F14B-472C-4ECE-8067-173208A4A9F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DDAB7D7-EC0C-4B2E-88C5-2A0706BC032C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DDAB7D7-EC0C-4B2E-88C5-2A0706BC032C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DDAB7D7-EC0C-4B2E-88C5-2A0706BC032C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DDAB7D7-EC0C-4B2E-88C5-2A0706BC032C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{858C583F-3282-48C1-AE50-F8D66E0525BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{858C583F-3282-48C1-AE50-F8D66E0525BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{858C583F-3282-48C1-AE50-F8D66E0525BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{858C583F-3282-48C1-AE50-F8D66E0525BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FC6CD26-A2EC-4011-A25E-63AF844AEB8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FC6CD26-A2EC-4011-A25E-63AF844AEB8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FC6CD26-A2EC-4011-A25E-63AF844AEB8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FC6CD26-A2EC-4011-A25E-63AF844AEB8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDA7691D-A1E1-4F4A-82EF-39F9A6D8E892}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDA7691D-A1E1-4F4A-82EF-39F9A6D8E892}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDA7691D-A1E1-4F4A-82EF-39F9A6D8E892}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDA7691D-A1E1-4F4A-82EF-39F9A6D8E892}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{88C5EE67-EC32-40B9-BF44-59F4C4883FFD} = {B5968F55-DBDB-441C-B8EB-3C60E60B8148}
+		{A4D9AABB-ADC7-46C8-A9DD-4DB56D1B9D65} = {88C5EE67-EC32-40B9-BF44-59F4C4883FFD}
+		{5FBFB417-94FC-4D92-B458-3AB1CBA96CA3} = {086E2123-29E3-4EA7-8B11-F46085B6EEBD}
+		{100D61A0-CB67-42AD-8D77-4C2E0B88BB0C} = {086E2123-29E3-4EA7-8B11-F46085B6EEBD}
+		{0BFF251D-53CD-4FD0-A90D-A811B6651229} = {5FBFB417-94FC-4D92-B458-3AB1CBA96CA3}
+		{D9A4F14B-472C-4ECE-8067-173208A4A9F0} = {100D61A0-CB67-42AD-8D77-4C2E0B88BB0C}
+		{1DDAB7D7-EC0C-4B2E-88C5-2A0706BC032C} = {830C653A-30FE-458E-BDC5-B221B62346C7}
+		{858C583F-3282-48C1-AE50-F8D66E0525BD} = {AAE57B5E-2AB3-461D-827B-862D773C8846}
+		{0FC6CD26-A2EC-4011-A25E-63AF844AEB8C} = {456FCF2A-181B-4BF6-BCB6-CAD576DF6B9F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78E8D9D5-4F04-478E-9E57-8E36D668A121}
+	EndGlobalSection
+EndGlobal

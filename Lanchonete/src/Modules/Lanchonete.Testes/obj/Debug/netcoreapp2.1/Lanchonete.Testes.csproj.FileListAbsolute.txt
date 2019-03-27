@@ -1,0 +1,9 @@
+C:\_me\_projects\_lanchonete\Lanchonete\src\Modules\Lanchonete.Testes\bin\Debug\netcoreapp2.1\Lanchonete.Testes.deps.json
+C:\_me\_projects\_lanchonete\Lanchonete\src\Modules\Lanchonete.Testes\bin\Debug\netcoreapp2.1\Lanchonete.Testes.dll
+C:\_me\_projects\_lanchonete\Lanchonete\src\Modules\Lanchonete.Testes\bin\Debug\netcoreapp2.1\Lanchonete.Testes.pdb
+C:\_me\_projects\_lanchonete\Lanchonete\src\Modules\Lanchonete.Testes\obj\Debug\netcoreapp2.1\Lanchonete.Testes.csprojAssemblyReference.cache
+C:\_me\_projects\_lanchonete\Lanchonete\src\Modules\Lanchonete.Testes\obj\Debug\netcoreapp2.1\Lanchonete.Testes.csproj.CoreCompileInputs.cache
+C:\_me\_projects\_lanchonete\Lanchonete\src\Modules\Lanchonete.Testes\obj\Debug\netcoreapp2.1\Lanchonete.Testes.AssemblyInfoInputs.cache
+C:\_me\_projects\_lanchonete\Lanchonete\src\Modules\Lanchonete.Testes\obj\Debug\netcoreapp2.1\Lanchonete.Testes.AssemblyInfo.cs
+C:\_me\_projects\_lanchonete\Lanchonete\src\Modules\Lanchonete.Testes\obj\Debug\netcoreapp2.1\Lanchonete.Testes.dll
+C:\_me\_projects\_lanchonete\Lanchonete\src\Modules\Lanchonete.Testes\obj\Debug\netcoreapp2.1\Lanchonete.Testes.pdb

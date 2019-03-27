@@ -1,0 +1,14 @@
+C:\_me\_projects\_lanchonete\Lanchonete\src\Services\Lanchonete.API\obj\Debug\netcoreapp2.1\Lanchonete.API.csproj.CoreCompileInputs.cache
+C:\_me\_projects\_lanchonete\Lanchonete\src\Services\Lanchonete.API\obj\Debug\netcoreapp2.1\Lanchonete.API.AssemblyInfoInputs.cache
+C:\_me\_projects\_lanchonete\Lanchonete\src\Services\Lanchonete.API\obj\Debug\netcoreapp2.1\Lanchonete.API.AssemblyInfo.cs
+C:\_me\_projects\_lanchonete\Lanchonete\src\Services\Lanchonete.API\bin\Debug\netcoreapp2.1\Lanchonete.API.deps.json
+C:\_me\_projects\_lanchonete\Lanchonete\src\Services\Lanchonete.API\bin\Debug\netcoreapp2.1\Lanchonete.API.runtimeconfig.json
+C:\_me\_projects\_lanchonete\Lanchonete\src\Services\Lanchonete.API\bin\Debug\netcoreapp2.1\Lanchonete.API.runtimeconfig.dev.json
+C:\_me\_projects\_lanchonete\Lanchonete\src\Services\Lanchonete.API\bin\Debug\netcoreapp2.1\Lanchonete.API.dll
+C:\_me\_projects\_lanchonete\Lanchonete\src\Services\Lanchonete.API\bin\Debug\netcoreapp2.1\Lanchonete.API.pdb
+C:\_me\_projects\_lanchonete\Lanchonete\src\Services\Lanchonete.API\obj\Debug\netcoreapp2.1\Lanchonete.API.RazorAssemblyInfo.cache
+C:\_me\_projects\_lanchonete\Lanchonete\src\Services\Lanchonete.API\obj\Debug\netcoreapp2.1\Lanchonete.API.RazorAssemblyInfo.cs
+C:\_me\_projects\_lanchonete\Lanchonete\src\Services\Lanchonete.API\obj\Debug\netcoreapp2.1\Lanchonete.API.RazorTargetAssemblyInfo.cache
+C:\_me\_projects\_lanchonete\Lanchonete\src\Services\Lanchonete.API\obj\Debug\netcoreapp2.1\Lanchonete.API.dll
+C:\_me\_projects\_lanchonete\Lanchonete\src\Services\Lanchonete.API\obj\Debug\netcoreapp2.1\Lanchonete.API.pdb
+C:\_me\_projects\_lanchonete\Lanchonete\src\Services\Lanchonete.API\obj\Debug\netcoreapp2.1\Lanchonete.API.csprojAssemblyReference.cache

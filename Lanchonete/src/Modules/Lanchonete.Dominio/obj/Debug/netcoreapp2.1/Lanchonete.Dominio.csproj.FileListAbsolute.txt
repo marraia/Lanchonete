@@ -1,0 +1,8 @@
+C:\_me\_projects\_lanchonete\Lanchonete\src\Modules\Lanchonete.Dominio\bin\Debug\netcoreapp2.1\Lanchonete.Dominio.deps.json
+C:\_me\_projects\_lanchonete\Lanchonete\src\Modules\Lanchonete.Dominio\bin\Debug\netcoreapp2.1\Lanchonete.Dominio.dll
+C:\_me\_projects\_lanchonete\Lanchonete\src\Modules\Lanchonete.Dominio\bin\Debug\netcoreapp2.1\Lanchonete.Dominio.pdb
+C:\_me\_projects\_lanchonete\Lanchonete\src\Modules\Lanchonete.Dominio\obj\Debug\netcoreapp2.1\Lanchonete.Dominio.csproj.CoreCompileInputs.cache
+C:\_me\_projects\_lanchonete\Lanchonete\src\Modules\Lanchonete.Dominio\obj\Debug\netcoreapp2.1\Lanchonete.Dominio.AssemblyInfoInputs.cache
+C:\_me\_projects\_lanchonete\Lanchonete\src\Modules\Lanchonete.Dominio\obj\Debug\netcoreapp2.1\Lanchonete.Dominio.AssemblyInfo.cs
+C:\_me\_projects\_lanchonete\Lanchonete\src\Modules\Lanchonete.Dominio\obj\Debug\netcoreapp2.1\Lanchonete.Dominio.dll
+C:\_me\_projects\_lanchonete\Lanchonete\src\Modules\Lanchonete.Dominio\obj\Debug\netcoreapp2.1\Lanchonete.Dominio.pdb
