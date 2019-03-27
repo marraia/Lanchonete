@@ -1,0 +1,27 @@
+services:
+  lanchonete.api:
+    build:
+      context: C:\_me\_projects\_lanchonete\Lanchonete
+      dockerfile: src/Services/Lanchonete.API/Dockerfile
+      target: base
+    entrypoint: tail -f /dev/null
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      DOTNET_USE_POLLING_FILE_WATCHER: '1'
+      NUGET_FALLBACK_PACKAGES: /root/.nuget/fallbackpackages
+    image: lanchoneteapi:dev
+    labels:
+      com.microsoft.visualstudio.debuggee.arguments: ' --additionalProbingPath /root/.nuget/packages
+        --additionalProbingPath /root/.nuget/fallbackpackages  bin/Debug/netcoreapp2.1/Lanchonete.API.dll'
+      com.microsoft.visualstudio.debuggee.killprogram: /bin/bash -c "if PID=$$(pidof
+        -x dotnet); then kill $$PID; fi"
+      com.microsoft.visualstudio.debuggee.program: dotnet
+      com.microsoft.visualstudio.debuggee.workingdirectory: /app
+    ports:
+    - target: 80
+    volumes:
+    - C:\_me\_projects\_lanchonete\Lanchonete\src\Services\Lanchonete.API:/app:rw
+    - C:\Users\fmendes\vsdbg\vs2017u5:/remote_debugger:ro
+    - C:\Program Files\dotnet\sdk\NuGetFallbackFolder:/root/.nuget/fallbackpackages:ro
+    - C:\Users\fmendes\.nuget\packages:/root/.nuget/packages:ro
+version: '3.4'
